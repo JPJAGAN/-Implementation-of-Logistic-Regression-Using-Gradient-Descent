@@ -102,7 +102,7 @@ print("\nClassification Report:\n", classification_report(y_test, y_pred))
 ```
 
 ## Output:
-<img width="605" height="634" alt="image" src="https://github.com/user-attachments/assets/d6e5d40a-d48c-47ee-a728-041835d588f5" />
+<img width="556" height="634" alt="image" src="https://github.com/user-attachments/assets/546f0555-dcaa-46ba-a522-5b23334d6a78" />
 
 
 ## Result:
